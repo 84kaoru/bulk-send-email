@@ -1,0 +1,3 @@
+﻿Email,name,subject,body,body_html,attachments
+taro@example.com,太郎さん,ご案内,{name}、いつもありがとうございます。,,
+jiro@example.com,次郎さん,ご案内,{name}、いつもありがとうございます。,,
